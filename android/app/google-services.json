@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "150088186770",
+    "firebase_url": "https://pic-blog-mh007.firebaseio.com",
+    "project_id": "pic-blog-mh007",
+    "storage_bucket": "pic-blog-mh007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150088186770:android:3ee753ec140d5b59731f4b",
+        "android_client_info": {
+          "package_name": "com.mhamza007.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150088186770-s28p46t4ipp9cuoairibgo5gshq29q13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bmulVWXbKCGY4b1ee4W_KVJsIfQ9RG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150088186770-s28p46t4ipp9cuoairibgo5gshq29q13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150088186770:android:c0816dc5afd8d794731f4b",
+        "android_client_info": {
+          "package_name": "com.mhamza007.pictureblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150088186770-s28p46t4ipp9cuoairibgo5gshq29q13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bmulVWXbKCGY4b1ee4W_KVJsIfQ9RG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150088186770-s28p46t4ipp9cuoairibgo5gshq29q13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
